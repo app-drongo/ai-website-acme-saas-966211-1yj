@@ -11,7 +11,7 @@ const DEFAULT_HERO = {
   title: 'Start your company with',
   titleHighlight: 'Best SaaS automation',
   description:
-    'Test operations, boost productivity, and reduce costs with our all-in-one business management platform. Trusted by 10,000+ SMBs worldwide.',
+    'Hello operations, boost productivity, and reduce costs with our all-in-one business management platform. Trusted by 10,000+ SMBs worldwide.',
   features: [
     '99.9% uptime guarantee',
     'Enterprise security',
