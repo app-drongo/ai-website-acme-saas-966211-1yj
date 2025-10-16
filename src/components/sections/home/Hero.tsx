@@ -23,7 +23,7 @@ const DEFAULT_HERO = {
   primaryCTAHref: '#pricing',
   secondaryCTAHref: '#demo',
   imageUrl:
-    'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1920&auto=format&fit=crop',
+    'https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I',
   imageAlt: 'Acme SaaS Dashboard Analytics',
   statsLabel1: 'Customer Growth',
   statsValue1: '+247% ROI',
