@@ -9,7 +9,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 const DEFAULT_HERO = {
   badge: 'New: Enterprise-Grade Security',
   title: 'Change your business with',
-  titleHighlight: 'intelligent SaaS automation',
+  titleHighlight: 'Smart SaaS automation',
   description:
     'Streamline operations, boost productivity, and reduce costs with our all-in-one business management platform. Trusted by 10,000+ SMBs worldwide.',
   features: [
